@@ -1,5 +1,4 @@
 # Project4_20181227_HojinKim
-=============
 
 > Project4(Final Project): Pacman Dodge
 >  > A game with the combination of Pacman and Dodge
