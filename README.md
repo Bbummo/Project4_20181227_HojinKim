@@ -4,8 +4,8 @@
 >  > A game with the combination of Pacman and Dodge
 >  > developed with Pygame
 
--Subject : Introduction to Visual Media Programming
--Professor : Yongduek, Seo
--Major : Art&Technology
--Student No. : 20181227
--Name : Hojin, Kim
+- Subject : Introduction to Visual Media Programming
+- Professor : Yongduek, Seo
+- Major : Art&Technology
+- Student No. : 20181227
+- Name : Hojin, Kim
